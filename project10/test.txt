@@ -1,0 +1,8 @@
+   1> This file contains 6 lines, 53 words, and 307 characters.
+   2> len(s) returns the number of characters in the string s.
+   3> len(s.split()) returns the number of words in the string s.
+   4> 
+   5> open(filename, 'r') returns a file object opened for input.
+   6> for line in inputFile: is a loop header for reading lines from a file.
+
+Lines: 6   Words: 53   Characters: 307
